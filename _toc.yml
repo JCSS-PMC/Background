@@ -1,0 +1,22 @@
+format: jb-book
+root: 00_intro/intro.md
+parts:
+- caption: Reliability Requirements
+  numbered: false
+  chapters:
+  - file: 01_RelReq/introduction.md
+  - file: 01_RelReq/requirements.md
+  - file: 01_RelReq/principles-of-limit-state-design.md
+  - file: 01_RelReq/basis-of-uncerainty-modelling.md
+- caption: Further Content
+  numbered: false
+  chapters:
+  - file: 02_further/general-principles.md
+- caption: Further content 
+  numbered: false
+  chapters:
+  - file: 03_further/concrete-properties.md
+- caption: How to Use
+  numbered: false
+  chapters:
+  - file: help/how-to-use.md
